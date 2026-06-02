@@ -1,0 +1,16 @@
+@import "tailwindcss";
+
+* { -webkit-tap-highlight-color: transparent; box-sizing: border-box; }
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  background: #fff;
+  color: #1a1a2e;
+}
+
+#root {
+  width: 100%;
+  min-height: 100svh;
+}
