@@ -19,7 +19,7 @@ function AppContent() {
 
   return (
     <>
-      {/* Intro — fullscreen, blocks everything for 4s */}
+      {/* Intro — fullscreen, blocks everything until done (or skipped) */}
       <AnimatePresence>
         {!introComplete && (
           <motion.div

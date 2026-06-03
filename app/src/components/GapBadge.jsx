@@ -1,4 +1,4 @@
-import { CONCEPTS, GAP_COLOURS } from '../data/students'
+import { GAP_COLOURS } from '../data/students'
 
 const STYLES = {
   amber:  'bg-amber-50 text-amber-700 border-amber-200',

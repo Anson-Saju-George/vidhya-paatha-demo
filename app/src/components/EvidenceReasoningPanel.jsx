@@ -36,7 +36,7 @@ export default function EvidenceReasoningPanel({ steps }) {
             className="overflow-hidden"
           >
             <div className="px-4 pb-4 pt-1 space-y-3 border-t border-slate-100">
-              {steps.map((step, i) => (
+              {steps.map((step) => (
                 <div key={step.step} className="flex items-start gap-3">
                   <div className="flex-shrink-0 w-6 h-6 rounded-full bg-blue-950 flex items-center justify-center mt-0.5">
                     <span className="text-[9px] font-bold text-white">{step.step}</span>

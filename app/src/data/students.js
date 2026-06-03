@@ -1,4 +1,4 @@
-import { EVIDENCE_STATES, ANANYA_INTERVENTION_HISTORY, ANANYA_REASONING_STEPS } from './interventions.js'
+import { ANANYA_INTERVENTION_HISTORY, ANANYA_REASONING_STEPS } from './interventions.js'
 
 export const CONCEPTS = {
   PLACE_VALUE: 'Place Value',

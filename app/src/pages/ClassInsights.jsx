@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import { useNavigate } from 'react-router-dom'
 import { motion, AnimatePresence } from 'framer-motion'
-import { ChevronDown, ChevronRight, Users, TrendingUp } from 'lucide-react'
+import { ChevronDown, ChevronRight, TrendingUp } from 'lucide-react'
 import AppShell from '../components/AppShell'
 import PageTransition from '../components/PageTransition'
 import GapBadge from '../components/GapBadge'
