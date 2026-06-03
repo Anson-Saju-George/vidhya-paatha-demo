@@ -10,6 +10,7 @@
 </p>
 
 <p align="center">
+  <a href="https://ansonsajugeorge.online/vidhya-paatha-demo/"><strong>Live Demo</strong></a> &middot;
   <a href="https://ansonsajugeorge.online/context-forge/">ContextForge Live Demo</a> &middot;
   <a href="https://github.com/Anson-Saju-George/context-forge">ContextForge Repo</a>
 </p>
@@ -19,6 +20,8 @@
 ## About
 
 **VidyaPaatha Passport** is a Phase 1 clickable prototype built for **SahAI for Shiksha 2026 — Challenge 2.4**.
+
+🔗 **Live demo:** [ansonsajugeorge.online/vidhya-paatha-demo](https://ansonsajugeorge.online/vidhya-paatha-demo/)
 
 In Indian classrooms of 40–50 students across multiple ability levels, teachers can see *that* a child is struggling but have no record of *what was already tried*. Each assessment is treated as an isolated event — the score is kept, the teaching context is forgotten. When a child moves up a grade, the new teacher rediscovers what the last one already learned.
 
