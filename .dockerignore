@@ -1,0 +1,12 @@
+.git
+node_modules
+**/node_modules
+dist
+**/dist
+frontend/dist
+docs
+assets
+.agents
+.claude
+*.md
+skills-lock.json
